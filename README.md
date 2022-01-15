@@ -12,8 +12,9 @@ Simple DirectoryFinder with python
 
 # 🧰 __Examples__
 
-![image](https://cdn.discordapp.com/attachments/705248947005816944/928821599841439744/unknown.png)
-
+![image](https://media.discordapp.net/attachments/920731729738752020/931800007085010965/unknown.png?width=632&height=676)
+![image](https://cdn.discordapp.com/attachments/920731729738752020/931800071329157130/unknown.png)
+  
 # __📖 Dictionary__
 
 https://github.com/daviddias/node-dirbuster/blob/master/lists/directory-list-2.3-medium.txt
